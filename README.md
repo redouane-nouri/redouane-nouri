@@ -1,14 +1,13 @@
 Hi 👋 My name is Redouane Nouri
 ===============================
 
-Security Software Engineer
+Software Engineer
 --------------------------
 
-I am a Security Software Engineer, i have a bachelor's degree in Computer and Software Engineering. And a Master's degree in Cyber Security
-
-*   🧠  I'm learning Next.js and NestJS.
+*   💡  Bachelor's degree in Computer and Software Engineering from USTHB.
+*   🔐  Master's degree in Cyber Security from USTHB.
+*   🐻  Software Engineer at CyBears.
 *   🤝  I'm open to collaborating on cyber security related projects.
-*   ⚡  Graduated from USTHB.
 
 ### Skills 
 <p align="left">
